@@ -1,0 +1,14 @@
+D:\Daily-Programming-Practice\obj\Debug\net10.0\Daily-Programming-Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Daily-Programming-Practice\obj\Debug\net10.0\Daily-Programming-Practice.AssemblyInfoInputs.cache
+D:\Daily-Programming-Practice\obj\Debug\net10.0\Daily-Programming-Practice.AssemblyInfo.cs
+D:\Daily-Programming-Practice\obj\Debug\net10.0\Daily-Programming-Practice.csproj.CoreCompileInputs.cache
+D:\Daily-Programming-Practice\bin\Debug\net10.0\Daily-Programming-Practice.exe
+D:\Daily-Programming-Practice\bin\Debug\net10.0\Daily-Programming-Practice.deps.json
+D:\Daily-Programming-Practice\bin\Debug\net10.0\Daily-Programming-Practice.runtimeconfig.json
+D:\Daily-Programming-Practice\bin\Debug\net10.0\Daily-Programming-Practice.dll
+D:\Daily-Programming-Practice\bin\Debug\net10.0\Daily-Programming-Practice.pdb
+D:\Daily-Programming-Practice\obj\Debug\net10.0\Daily-Programming-Practice.dll
+D:\Daily-Programming-Practice\obj\Debug\net10.0\refint\Daily-Programming-Practice.dll
+D:\Daily-Programming-Practice\obj\Debug\net10.0\Daily-Programming-Practice.pdb
+D:\Daily-Programming-Practice\obj\Debug\net10.0\Daily-Programming-Practice.genruntimeconfig.cache
+D:\Daily-Programming-Practice\obj\Debug\net10.0\ref\Daily-Programming-Practice.dll

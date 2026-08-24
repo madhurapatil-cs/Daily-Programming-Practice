@@ -27,4 +27,4 @@ class LCM
 
         System.out.println("LCM = " + lcm);
     }
-}
+}s
